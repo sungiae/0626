@@ -14,7 +14,7 @@
  * 
  * 객체 = 속성(변수) + 기능(메소드)
  */
-public class 객체지향_클래스 {
+public class a2_객체지향_클래스 {
 
 	public static void main(String[] args) {
 		
